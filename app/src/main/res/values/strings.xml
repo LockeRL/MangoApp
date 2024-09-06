@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MangoTestApp</string>
+
+    <string name="log_in">Log in</string>
+    <string name="img_flag">Flag icon</string>
+    <string name="phone">Phone</string>
+    <string name="code">Code</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+
+    <string name="user_profile">Profile</string>
+    <string name="chats">Chats</string>
+
+    <string name="send">Send</string>
+    <string name="enter_message">Enter message…</string>
+
+    <string name="error_number">Error number</string>
+    <string name="register_error">Register error</string>
+</resources>
